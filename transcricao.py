@@ -24,7 +24,7 @@ def transcricao():
 
 def main():
     """
-    Faz a chama da função transcricao
+    Faz a chamada função transcricao
     """
     transcricao()
 
